@@ -1,0 +1,11 @@
+{
+  "RedDragon.RGB_Program|block": "RGB编程灯",
+  "RedDragon.Servo2|block": "舵机(270)|编号 %num|角度 %value",
+  "RedDragon.MotorRun|block": " 直流电机|%index|速度(-255~255) %speed",
+  "RedDragon.MotorRunDual|block": " 直流电机|%motor1|速度(-255~255) %speed1|%motor2|速度(-255~255) %speed2",
+  "RedDragon.MotorStopAll|block": "停止所有电机",
+  "RedDragon.enPos.forward|block": "正转",
+  "RedDragon.enPos.reverse|block": "反转",
+  "RedDragon.enPos.stop|block": "停止",
+  "RedDragon.PWMOFF|block":  "关闭PWM输出|%index" 
+}
